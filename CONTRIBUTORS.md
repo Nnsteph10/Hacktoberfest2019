@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Stephanie Nguyen
+- Photo:
+- Location: Syracuse, USA
+- Bio: Biology student
+- Github: https:github.com/nnsteph10
